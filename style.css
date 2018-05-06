@@ -1,0 +1,10 @@
+body {
+	color: black;
+	font-family: 'Crimson Text', serif;
+}
+h1, h2 {
+	color: black;
+	padding-left: 28px;
+	text-transform: uppercase;
+	text-align: center;
+}
